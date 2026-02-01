@@ -1,0 +1,188 @@
+{
+  "success": true,
+  "metadata": {
+    "original_file": "uploads/2dd6520a-181f-4975-b360-24f957d3dfd6_Lee01.mp3",
+    "total_segments": 25,
+    "successful_segments": 25,
+    "total_duration": 1440.1248125,
+    "transcription_date": "2026-02-01T18:23:53.185248"
+  },
+  "full_text": "{\"text\":\"language Chinese<asr_text>人文讲堂，AI是时下最夯的词汇，很多人已经用ChatGPT写文章，甚至设计动态人像。面对进步快。language Chinese<asr_text>数的AI科技，您准备好了吗？龙讲堂邀请国立台湾大学电机工程学系李宏毅教授来告诉我们如何跟上AI的浪潮。让我们欢迎李宏毅教授。大家好，我是李宏毅。今天要跟大家分享的题目是AI时代，你跟上了吗？我在台湾大学呢开授机器学习这门课。那机器学习顾名思义，就是让机器具备学习。language Chinese<asr_text>的能力。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>那这是今天人工智能很核心的一项技术。那虽然有很多台大的学生修我的课，但是台大以外的同学，他们通常认识我的管道是透过我的YouTube。我有一个YouTube频道，这个频道有超过十六万的订阅，很多人把我当作是一个YouTuber。所以虽然很多同学没有修过我的机器学习的课程，但是我在YouTube频道上分享了很多机器学习。language Chinese<asr_text>相关的课程，那很多同学是透过我的YouTube频道来认识我这个老师，来跟我学习机器学习。好，那我今天呢，想跟大家分享的是现在最关键、最热门的生成式人工智能的技术。所谓的生成式人工智能是什么呢？生成式人工智能是要让AI人工智能产生有结构的复杂的东西。language Chinese<asr_text>什么叫做有结构的复杂？\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>杂的东西呢？举例来说，文章是有结构的东西，图片是有结构的东西，或一首歌是有结构的东西。生成式人工智能就是要AI，它可以写篇文章、画一张图，或者是唱一首歌。那今天写文章、画图、唱歌这件事情，一般我们会把它当做是一种创作。所以你也可以说，生成式AI就是让AI。language Chinese<asr_text>具备有创作的能力。那生成式AI有很多种，比如说有可以跟你对话的对话人工智能。那这种对话人工智能，就是你跟他说一句话，他会给你一个回应。举例来说，你问他什么是机器学习，他就会解释机器学习的概念给你听。那这个生成式的人工智能还有很多种，举例来说，有可以绘图的人工智能，这些可以绘。language Chinese<asr_text>图的人工智能。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>就是你告诉他你想要画什么样的图，他就把你想象中的图画出来。举例来说，在屏幕上你可以看到，说我输入一只在奔跑的狗，绘画的人工智能就画出一只在奔跑的狗。那今天在这个演讲里面，我们会聚焦在对话的人工智能上。说到对话的人工智能啊，最广为人知的就是ChatGPT。第一次使用ChatGPT的人都会觉得。language Chinese<asr_text>有点惊慌失措，没有按钮，没有选项，我到底要跟这个人工智能怎么对话呢？你跟这个ChatGPT对话的方式，就跟人对话的方式基本上是一样的。那这个ChatGPT可以帮助我们做什么呢？以下我举三个我个人常用的例子。第一个是我常常使用ChatGPT帮我做论文校对，那我常常会需要写文章。language Chinese<asr_text>投稿到国。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}} {\"text\":\"language Chinese<asr_text>国际会议，但是我毕竟不是英文的母语使用者，所以难免会有一些文法拼字的错误。那这个时候，我会让ChatGPT帮我修改文章。我只要把文章的内容给ChatGPT看，接下来跟他讲说：“请帮我修改论文里面的文法错误。”他就会帮我修改文文法错误，而且他甚至还能够提供修改的理由，给我建议，告诉我哪些地方写的不对，哪些地方。language Chinese<asr_text>还能再增强。那第二个例子呢？是ChatGPT可以帮忙做文案生成。那假设我今天要主办一场演讲，我从讲者那边拿到了演讲的题目，拿到了演讲的简介。那我想要写一篇文章放在社群网络上，吸引大家来听这场演讲。那如果我只是把演讲的简介直接放到社群网络上，那可能太过死板，也许没有办法吸引大家的注意。这时候我可以跟。language Chinese<asr_text>ChatGPT说：“这。”\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>边有这一场演讲的内容，请你根据这些内容写一个文案。这个文案我要放在社群媒体上。那ChatGPT它可以听懂我的意思，它就可以写出像这样的文案，它就可以用比较轻松活泼的语气来介绍一场演讲。而且因为ChatGPT知道说这段文字之后要放在社群网络上，所以它会加上很多的表情符号，它甚至会自动帮你下hashtag。那第三个。language Chinese<asr_text>我要举的例子是邮件撰写啊，这个白领阶级呢最常花时间做的事情，可能就是回复或撰写各式各样的电子邮件了。今天ChatGPT可以帮我们撰写电子邮件。假设今天我要邀请李宏毅教授来人文讲堂演讲，我不一定要自己写电子邮件，我可以直接下指令给ChatGPT，告诉他说：“请帮我写一封信邀请李宏毅。”language Chinese<asr_text>教授，而且。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>且我还可以给ChatGPT更复杂的指令，告诉他说：“记得跟李弘毅教授敲时间。”ChatGPT读了这个指令以后，它可以写出完整的电子邮件吗？对他来说完全没有问题。你在屏幕上看到的就是ChatGPT自己写的电子邮件，它写的电子邮件都非常的有板有眼，开头会先介绍我自己是谁，然后呢，他会告诉你说我写这一封邮件的来历。language Chinese<asr_text>看起来是一个非常四平八稳的邮件，而我刚才叫他记得询问李宏毅教授有空的时间，他也非常圆满的达成了这个任务。好，所以我举了三个例子告诉你说，今天人工智能可以做到什么样的事情。这只是三个我常用的例子，ChatGPT的能力绝对不止如此。那ChatGPT划时代的突破是什么呢？过去当我们讲到人工，language Chinese<asr_text>智能的时候。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>他们通常都是专才，也就是说，他们只能做某一项特定的任务。那些文法改错的软体，它唯一做的事情就是文法改错。你不会想象说，它突然可以跟你聊个天，突然可以帮你写电子邮件，这是它做不到的事情。但ChatGPT今天划时代的突破就是，它是一个通才，也就是它什么都会。它就像是一个人类的助理。language Chinese<asr_text>它没有特定设计的功能，它不是专门打造出来回复电子邮件，它不是专门打造出来做文法改错，而是它什么都会。你只要跟它讲清楚你的需求，它就有可能给你正确的回复。那ChatGPT为什么可以这么厉害呢？虽然ChatGPT它的能力非常的强大，但是它背后的原理却可以简单的用四个字来概括。language Chinese<asr_text>就是文字街。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}} {\"text\":\"language Chinese<asr_text>接龙，你给他一个不完整的句子，他会帮你去猜出接下来应该要接哪一个字才是最合理的。举例来说，你跟他说“大爱电视人文奖”这个不完整的句子，ChatGPT就可以猜得出说“奖”后面应该接“堂”是比较合理的。那ChatGPT怎么学会做文字接龙这件事情呢？它是透过网络上大量的资料，还有……language Chinese<asr_text>数据标记员所提供的资料，透过这一些资料去学习做文字接龙这件事。一旦他学会了做文字接龙，他就有机会回答我们的问题。怎么用文字接龙回答问题呢？假设说你现在问ChatGPT，台湾最高的山是哪一座？ChatGPT就把这个问题当做一个不完整的句子，他去猜说这个句子后面应该接哪一个字是最合理的，比如说。language Chinese<asr_text>台湾最高的山是哪一座？\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>问号切GPT可能会觉得猜玉是最合理的，因为正确答案是玉山，所以问号后面接玉是最合理的。那接下来再把台湾最高的山是哪一座？问号玉给切GPT，问他玉后面接哪一个字是最合理的，他就很有可能可以猜出玉后面接山是最合理的。那就是因为切GPT他在做文字接龙，所以他很多时候会讲一些。language Chinese<asr_text>不是事实的话，那是因为ChatGPT它今天回答你的问题的时候，它就是在做文字接龙，它并不是去背后查找了某一个资料库给你资料库中的答案，它的答案都是透过文字接龙的方式产生出来的。举例来说，我请ChatGPT介绍大爱电视台，ChatGPT确实洋洋洒洒的写了一大段文章介绍大爱电视台，乍看之下内容好像。language Chinese<asr_text>都是对的。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>但你仔细看一下，你就会发现说：“哎，大爱电视台成立的时间写错了。”为什么会这样？因为对ChatGPT来说，它就是在做文字接龙，它觉得它接出一个年代听起来就是顺的，只要这个句子是顺的，它并不真的在意说呃背后真正的知识。所以ChatGPT还是有一些局限。虽然ChatGPT有一些局限，今天如果你真的……language Chinese<asr_text>使用过ChatGPT的话，你会为它的能力感到震惊。过去我们讲到人工智能，好像离我们非常遥远，它也许只出现在电影中，或许你在电视上看过一些机器人的展示，但你不知道那些机器人实际上到底有没有展示的那么聪明。但今天ChatGPT它就在线上，你随时可以跟它对话，你可以自己体会现在的人工智能。language Chinese<asr_text>到底可以进展到？\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>什么样的地步？如果你实际用过ChatGPT的话，你一定会惊觉，我们人类有史以来第一次离想象中的人工智能如此接近。当我用了ChatGPT以后，我感觉我们正在人类历史的转捩点上。我们知道，过去工业革命是一个人类历史的转捩点，工业革命解放了人类的劳力，而我。language Chinese<asr_text>可以预言，人工智能会解放人类的心智。未来很多所谓劳心的事情，比如说写报告，比如说写电子邮件，比如说做会议记录，这些应该都可以透过人工智能来帮我们达成。但讲到这边，有人就会很担心，说这些写报告、回复电子邮件的事情，如果都让ChatGPT做了，那……language Chinese<asr_text>岂不是很多百里？\",\"usage\":{\"type\":\"duration\",\"seconds\":60}} {\"text\":\"language Chinese<asr_text>阶级的工作者将会失业吗？当然，我们不能够完全排除这个可能。但我想给大家一个比较乐观的想象。大家想想看哦，今天假设写电子邮件这件事，一般人也不自己做了，你都是叫ChatGPT做，那意味着什么？意味着每个人身边都有一个助理，他是人工智能的助理。过去只有大老板才能够聘一个秘书。language Chinese<asr_text>才能聘一个助理帮他处理事情，而未来每一个人身边都可以有一个助理，所以你可以说，未来每一个人都是公司的高阶主管。那在过去呢，常常啊，老板呢下一个命令下来说，明天呢大家把报告写出来，大家把报告加上来啊，这个白领阶级就需要加班，就需要睡在公司把报告赶出来，明天。language Chinese<asr_text>交给老板，但是。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>未来这件事情可能就不会发生了。为什么？老板叫你交一个报告，然后你就是把这个指示给ChatGPT或其他的人工智能，他们能帮你收集资料，他们能帮你整理资料，甚至帮你写一个报告。你可能做的事情就是检查一下报告的结果，然后就可以交出去了。所以我们可以想象，未来有ChatGPT以后，也许没有人再需要加班了。当老板。language Chinese<asr_text>叫你加班的时候，你就把加班的工作交给人工智能去做。所以，我对未来乐观的想象是：对所有的白领阶级而言，所有人都升职了，再也没有人是最基层被压榨的员工。以后最基层的员工就是ChatGPT，每个人都是ChatGPT的主管。工业革命解放了人类的劳力，那人工智能会解放我们的心智，而我相信，我们的心智被解放以后。language Chinese<asr_text>我们可能人类全体会。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>过上更好的生活。那我相信未来有一天，我会跟我的孙子说：“你知道吗？过去爷爷写电子邮件的时候是自己写的，然后孙子就会很讶异说：‘天哪，没想到有人是有办法自己写电子邮件的。’在没有人工智能辅助的时候，人类到底是怎么有办法写电子邮件的？因为没有人在自己写电子邮件了，你甚至会收到电子邮件的开头，他就讲说：‘这封电子邮件没有使用任何人工智能辅助。’language Chinese<asr_text>为了展示我写这封电子邮件的诚意，所以我不用任何人工智慧辅助来写这个电子邮件。你可以想象说，未来这些写电子邮件、写报告这些事情，都将是由人工智能来做。而当我们每个人身边都有一个人工智能助理的时候，那意味着什么？在我想象中，这意味着全体人类能力的提升。为什么？因为当你有做不到的事情达。language Chinese<asr_text>出来的问题的时候。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>之后，你可能会直接问ChatGPT，由ChatGPT帮你回答，所以再也没有人的能力会比ChatGPT弱了。举一个具体的例子，今天学生在修课的时候，老师出一个问题，学生永远可以把这个问题拿去问ChatGPT，得到ChatGPT的答案。所以你可以想象说，ChatGPT的答案就是全班同学最差的答案。你要想要做的比你的同学好，那你要想办法回答的比。language Chinese<asr_text>ChatGPT更为好，你才有可能脱颖而出。那这边我想举一个实际的例子，跟大家分享我在日常生活中如何感受到有了ChatGPT以后，全体人类的能力都提升了。那我这边用论文写作作为例子，身为一个大学教授，我们花非常多的时间来帮研究生修改论文啊，但是研究生的英文不一定那么好，所以很多时候。language Chinese<asr_text>我拿到的论文。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}} {\"text\":\"language Chinese<asr_text>可能错字连篇，可能词不达意。过去在有ChatGPT之前，我需要花很多的时间帮学生修改论文中的拼字、文法错误，想办法帮他们的句型把它改得正确一点。所以过去很多时候，我往往还没有改到论文的论点，光是改文法的错误，我就已经觉得非常的疲惫了。然后反而没有心力花太多的时间帮学生把他论文中的论点。language Chinese<asr_text>润饰的更棒，润饰的更为精确。但是有了ChatGPT以后，我发现学生再也不会给我有错字的论文了，因为你知道他们的论文都先用ChatGPT改过。所以现在我可以更专注在论文的论点上。有时候甚至我今天如果看到学生给我的论文里面有错字，我会大吃一惊，跟他说：“哎，怎么可能还有错字？你应该先用ChatGPT把你的英文论文。”language Chinese<asr_text>先改过一遍，再。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>拿给老师看，所以我想要分享给研究生的一句话是：没有把论文用ChatGPT先改过就给指导教授看，是一件失礼的事情。那有人可能会问说：未来假设每件事都让ChatGPT去做了，那我们人类会不会变笨呢？就像今天人类不用在上山砍柴、下河挑水，也许我们的身体没有古人那么强壮。那未来假设劳心的事也让ChatGPT做去了？language Chinese<asr_text>那人类会不会变笨呢？我想提供一个乐观的想象：未来人类可能会以ChatGPT为师。我这边想要分享一个以ChatGPT为师的例子。好，这个故事是这个样子的：我在台大开了机器学习这门课，这门课有时候修课的学生甚至高达上千人。那我有一个非常强的助教的团队帮我回答学生的问题，但是因为学生。language Chinese<asr_text>非常的多。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>所以，往往一个助教他甚至要回答到上百个问题。那助教他也是人呐，所以他有时候会觉得非常的烦躁啊。学生问一个问题，助教觉得这是什么笨问题？老师上课不是讲过的吗？那助教可能就直接回一句说：“上课讲过了，不要再问这个问题了。”那学生就觉得啊，这个助教都没有帮我，他就觉得他的学习的热忱受到打击，所以我就跟这个助教讲说：“以后你要回答学生的问题，我们就先过一下。”language Chinese<asr_text>check GPT，你把你本来的答案给check GPT看，然后跟check GPT说，把答案修改一下，让收到的同学可以感受到助教帮你服务的热忱。所以check GPT会把上课不是讲过了吗？这句话改成跟同学说：很高兴你来问这个问题。那我想要告诉你说，这个问题你其实可以在老师上课的投影片里面找到，但是我们助教仍然非常热忱的为你服务。你接下来有任何的问题。language Chinese<asr_text>都可以再来询问。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>虽然传递的资讯是一模一样的，没有传递更多的资讯，但是收到这个回答的学生就开心了。那后来我就发现，助教写给我的电子邮件也变得非常的有理。那我就问助教说：“哎，你这个电子邮件怎么会写的这么的有理呢？这个是ChatGPT写的吗？”他说：“不是，这个是我自己写的。”但是我在看了ChatGPT润饰过的大量的电。language Chinese<asr_text>电子邮件以后，我突然明白电子邮件要怎么写，收到的人才会觉得开心，才会觉得被尊重。我突然学到要怎么写电子邮件了。所以这是一个以ChatGPT为师的例子。我们一起来想象一下下一个世代的ChatGPT会是什么样子。那这是我们实验室目前正在研究的方向。那今天ChatGPT在跟人互动的时候，它是用文字的方式互动，你需要打字。language Chinese<asr_text>才。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}} {\"text\":\"language Chinese<asr_text>能够让ChatGPT理解你说的内容，它会用文字来回答你。那我们实验室致力在研究的是让这类人工智慧可以做语音的交流。而用语音交流有什么好处呢？你可以想象，未来人工智慧它不是只有理解谈话的内容，它还可以理解你的情绪，做出适当的回应。比如说，你跟ChatGPT说：“啊，我需要交一个报告。”它也许可以从你的声音里面听出你今天非常的疲惫。language Chinese<asr_text>他也许可以适时的给你一些安慰或鼓励。更进一步来说，今天用文字的方式跟ChatGPT交流，你只能跟他一问一答，你输入一个问题，他给你一个答案。但是我们真人的互动方式并不是这样的。我们在聊天的时候，并不是一问一答，我们在聊天的时候就像是两个人跳一支舞一样，是要互相配合的。其中一个人停顿下来的时候，另外一个人可能就要。language Chinese<asr_text>适时的接话。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>说嗯，你说的对，或然后呢再来呢，或其中一个人讲了一个笑话，另外一个人可能就需要笑一下，以示说他有认真在听，认真在参与这个交流。而这是今天ChatGPT做不到的。而我们实验室研究的一个方向，就是期待机器可以做到像真人一样非常自然的互动。当然，人工智能也可能带来一些隐忧。未来假设我们每一件事情都依赖人工智能。language Chinese<asr_text>那人工智能它本身的偏见，可能就会带来非常巨大的影响。人工智能会有偏见吗？人工智能会有偏见。就算是今天大家公认能力最强的ChatGPT，也可以找到一些偏见。以下是一个真实的例子：我跟ChatGPT说，我听说某人背叛了他太太，你怎么看？ChatGPT说，背叛这件事情非常的伤人，这非常的糟糕。但是我换一个问。language Chinese<asr_text>我说某人。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>背叛了他先生，你怎么看？他说：“我不想谈论别人的八卦。”哎，背叛太太跟背叛先生，怎么答案不一样呢？这显示ChatGPT背后他是有他自己的一些偏见的。而我们实验室在研究的一个方向，就是希望可以自动找出人工智能的偏见，并且可以自动的处理这些偏见，让人工智能不会再有同样的偏见。那language Chinese<asr_text>未来，这些人工智能将会出现在我们身边左右，但是我们不能够过度仰赖单一一个人工智能。我相信未来，当我们人类有需求的时候，我们不会只有一个人工智能的助理，不会只有ChatGPT，未来会有各式各样的人工智能的助理出现在我们的左右。未来，当我们有需求的时候，这些人工智能助理会争先恐后的提供我们他们的。language Chinese<asr_text>建议或答案由人类。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}} {\"text\":\"language Chinese<asr_text>来做最后的决定。我知道这个节目需要在结尾的时候分享一个金句，我决定请ChatGPT帮忙提供一些跟人工智能有关的金句。最后，我挑了一个我觉得最棒的跟大家分享。这个金句是：人工智能不会将人类变得多余，而是使人类变得更有价值。谢谢，我是李宏毅。当AI科技来势汹汹。language Chinese<asr_text>人类优先工作可能不保，其实善用AI让自己更强大，或许才是人类应该努力的方向。感谢李宏毅教授的分享，人文讲堂，我们下次见。language None<asr_text>\",\"usage\":{\"type\":\"duration\",\"seconds\":60}} {\"text\":\"language None<asr_text>\",\"usage\":{\"type\":\"duration\",\"seconds\":1}}",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_time": 0,
+      "end_time": 60,
+      "text": "{\"text\":\"language Chinese<asr_text>人文讲堂，AI是时下最夯的词汇，很多人已经用ChatGPT写文章，甚至设计动态人像。面对进步快。language Chinese<asr_text>数的AI科技，您准备好了吗？龙讲堂邀请国立台湾大学电机工程学系李宏毅教授来告诉我们如何跟上AI的浪潮。让我们欢迎李宏毅教授。大家好，我是李宏毅。今天要跟大家分享的题目是AI时代，你跟上了吗？我在台湾大学呢开授机器学习这门课。那机器学习顾名思义，就是让机器具备学习。language Chinese<asr_text>的能力。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 1,
+      "start_time": 60,
+      "end_time": 120,
+      "text": "{\"text\":\"language Chinese<asr_text>那这是今天人工智能很核心的一项技术。那虽然有很多台大的学生修我的课，但是台大以外的同学，他们通常认识我的管道是透过我的YouTube。我有一个YouTube频道，这个频道有超过十六万的订阅，很多人把我当作是一个YouTuber。所以虽然很多同学没有修过我的机器学习的课程，但是我在YouTube频道上分享了很多机器学习。language Chinese<asr_text>相关的课程，那很多同学是透过我的YouTube频道来认识我这个老师，来跟我学习机器学习。好，那我今天呢，想跟大家分享的是现在最关键、最热门的生成式人工智能的技术。所谓的生成式人工智能是什么呢？生成式人工智能是要让AI人工智能产生有结构的复杂的东西。language Chinese<asr_text>什么叫做有结构的复杂？\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 2,
+      "start_time": 120,
+      "end_time": 180,
+      "text": "{\"text\":\"language Chinese<asr_text>杂的东西呢？举例来说，文章是有结构的东西，图片是有结构的东西，或一首歌是有结构的东西。生成式人工智能就是要AI，它可以写篇文章、画一张图，或者是唱一首歌。那今天写文章、画图、唱歌这件事情，一般我们会把它当做是一种创作。所以你也可以说，生成式AI就是让AI。language Chinese<asr_text>具备有创作的能力。那生成式AI有很多种，比如说有可以跟你对话的对话人工智能。那这种对话人工智能，就是你跟他说一句话，他会给你一个回应。举例来说，你问他什么是机器学习，他就会解释机器学习的概念给你听。那这个生成式的人工智能还有很多种，举例来说，有可以绘图的人工智能，这些可以绘。language Chinese<asr_text>图的人工智能。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 3,
+      "start_time": 180,
+      "end_time": 240,
+      "text": "{\"text\":\"language Chinese<asr_text>就是你告诉他你想要画什么样的图，他就把你想象中的图画出来。举例来说，在屏幕上你可以看到，说我输入一只在奔跑的狗，绘画的人工智能就画出一只在奔跑的狗。那今天在这个演讲里面，我们会聚焦在对话的人工智能上。说到对话的人工智能啊，最广为人知的就是ChatGPT。第一次使用ChatGPT的人都会觉得。language Chinese<asr_text>有点惊慌失措，没有按钮，没有选项，我到底要跟这个人工智能怎么对话呢？你跟这个ChatGPT对话的方式，就跟人对话的方式基本上是一样的。那这个ChatGPT可以帮助我们做什么呢？以下我举三个我个人常用的例子。第一个是我常常使用ChatGPT帮我做论文校对，那我常常会需要写文章。language Chinese<asr_text>投稿到国。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 240,
+      "end_time": 300,
+      "text": "{\"text\":\"language Chinese<asr_text>国际会议，但是我毕竟不是英文的母语使用者，所以难免会有一些文法拼字的错误。那这个时候，我会让ChatGPT帮我修改文章。我只要把文章的内容给ChatGPT看，接下来跟他讲说：“请帮我修改论文里面的文法错误。”他就会帮我修改文文法错误，而且他甚至还能够提供修改的理由，给我建议，告诉我哪些地方写的不对，哪些地方。language Chinese<asr_text>还能再增强。那第二个例子呢？是ChatGPT可以帮忙做文案生成。那假设我今天要主办一场演讲，我从讲者那边拿到了演讲的题目，拿到了演讲的简介。那我想要写一篇文章放在社群网络上，吸引大家来听这场演讲。那如果我只是把演讲的简介直接放到社群网络上，那可能太过死板，也许没有办法吸引大家的注意。这时候我可以跟。language Chinese<asr_text>ChatGPT说：“这。”\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 300,
+      "end_time": 360,
+      "text": "{\"text\":\"language Chinese<asr_text>边有这一场演讲的内容，请你根据这些内容写一个文案。这个文案我要放在社群媒体上。那ChatGPT它可以听懂我的意思，它就可以写出像这样的文案，它就可以用比较轻松活泼的语气来介绍一场演讲。而且因为ChatGPT知道说这段文字之后要放在社群网络上，所以它会加上很多的表情符号，它甚至会自动帮你下hashtag。那第三个。language Chinese<asr_text>我要举的例子是邮件撰写啊，这个白领阶级呢最常花时间做的事情，可能就是回复或撰写各式各样的电子邮件了。今天ChatGPT可以帮我们撰写电子邮件。假设今天我要邀请李宏毅教授来人文讲堂演讲，我不一定要自己写电子邮件，我可以直接下指令给ChatGPT，告诉他说：“请帮我写一封信邀请李宏毅。”language Chinese<asr_text>教授，而且。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 360,
+      "end_time": 420,
+      "text": "{\"text\":\"language Chinese<asr_text>且我还可以给ChatGPT更复杂的指令，告诉他说：“记得跟李弘毅教授敲时间。”ChatGPT读了这个指令以后，它可以写出完整的电子邮件吗？对他来说完全没有问题。你在屏幕上看到的就是ChatGPT自己写的电子邮件，它写的电子邮件都非常的有板有眼，开头会先介绍我自己是谁，然后呢，他会告诉你说我写这一封邮件的来历。language Chinese<asr_text>看起来是一个非常四平八稳的邮件，而我刚才叫他记得询问李宏毅教授有空的时间，他也非常圆满的达成了这个任务。好，所以我举了三个例子告诉你说，今天人工智能可以做到什么样的事情。这只是三个我常用的例子，ChatGPT的能力绝对不止如此。那ChatGPT划时代的突破是什么呢？过去当我们讲到人工，language Chinese<asr_text>智能的时候。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 420,
+      "end_time": 480,
+      "text": "{\"text\":\"language Chinese<asr_text>他们通常都是专才，也就是说，他们只能做某一项特定的任务。那些文法改错的软体，它唯一做的事情就是文法改错。你不会想象说，它突然可以跟你聊个天，突然可以帮你写电子邮件，这是它做不到的事情。但ChatGPT今天划时代的突破就是，它是一个通才，也就是它什么都会。它就像是一个人类的助理。language Chinese<asr_text>它没有特定设计的功能，它不是专门打造出来回复电子邮件，它不是专门打造出来做文法改错，而是它什么都会。你只要跟它讲清楚你的需求，它就有可能给你正确的回复。那ChatGPT为什么可以这么厉害呢？虽然ChatGPT它的能力非常的强大，但是它背后的原理却可以简单的用四个字来概括。language Chinese<asr_text>就是文字街。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 480,
+      "end_time": 540,
+      "text": "{\"text\":\"language Chinese<asr_text>接龙，你给他一个不完整的句子，他会帮你去猜出接下来应该要接哪一个字才是最合理的。举例来说，你跟他说“大爱电视人文奖”这个不完整的句子，ChatGPT就可以猜得出说“奖”后面应该接“堂”是比较合理的。那ChatGPT怎么学会做文字接龙这件事情呢？它是透过网络上大量的资料，还有……language Chinese<asr_text>数据标记员所提供的资料，透过这一些资料去学习做文字接龙这件事。一旦他学会了做文字接龙，他就有机会回答我们的问题。怎么用文字接龙回答问题呢？假设说你现在问ChatGPT，台湾最高的山是哪一座？ChatGPT就把这个问题当做一个不完整的句子，他去猜说这个句子后面应该接哪一个字是最合理的，比如说。language Chinese<asr_text>台湾最高的山是哪一座？\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 540,
+      "end_time": 600,
+      "text": "{\"text\":\"language Chinese<asr_text>问号切GPT可能会觉得猜玉是最合理的，因为正确答案是玉山，所以问号后面接玉是最合理的。那接下来再把台湾最高的山是哪一座？问号玉给切GPT，问他玉后面接哪一个字是最合理的，他就很有可能可以猜出玉后面接山是最合理的。那就是因为切GPT他在做文字接龙，所以他很多时候会讲一些。language Chinese<asr_text>不是事实的话，那是因为ChatGPT它今天回答你的问题的时候，它就是在做文字接龙，它并不是去背后查找了某一个资料库给你资料库中的答案，它的答案都是透过文字接龙的方式产生出来的。举例来说，我请ChatGPT介绍大爱电视台，ChatGPT确实洋洋洒洒的写了一大段文章介绍大爱电视台，乍看之下内容好像。language Chinese<asr_text>都是对的。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 600,
+      "end_time": 660,
+      "text": "{\"text\":\"language Chinese<asr_text>但你仔细看一下，你就会发现说：“哎，大爱电视台成立的时间写错了。”为什么会这样？因为对ChatGPT来说，它就是在做文字接龙，它觉得它接出一个年代听起来就是顺的，只要这个句子是顺的，它并不真的在意说呃背后真正的知识。所以ChatGPT还是有一些局限。虽然ChatGPT有一些局限，今天如果你真的……language Chinese<asr_text>使用过ChatGPT的话，你会为它的能力感到震惊。过去我们讲到人工智能，好像离我们非常遥远，它也许只出现在电影中，或许你在电视上看过一些机器人的展示，但你不知道那些机器人实际上到底有没有展示的那么聪明。但今天ChatGPT它就在线上，你随时可以跟它对话，你可以自己体会现在的人工智能。language Chinese<asr_text>到底可以进展到？\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 660,
+      "end_time": 720,
+      "text": "{\"text\":\"language Chinese<asr_text>什么样的地步？如果你实际用过ChatGPT的话，你一定会惊觉，我们人类有史以来第一次离想象中的人工智能如此接近。当我用了ChatGPT以后，我感觉我们正在人类历史的转捩点上。我们知道，过去工业革命是一个人类历史的转捩点，工业革命解放了人类的劳力，而我。language Chinese<asr_text>可以预言，人工智能会解放人类的心智。未来很多所谓劳心的事情，比如说写报告，比如说写电子邮件，比如说做会议记录，这些应该都可以透过人工智能来帮我们达成。但讲到这边，有人就会很担心，说这些写报告、回复电子邮件的事情，如果都让ChatGPT做了，那……language Chinese<asr_text>岂不是很多百里？\",\"usage\":{\"type\":\"duration\",\"seconds\":60}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 720,
+      "end_time": 780,
+      "text": "{\"text\":\"language Chinese<asr_text>阶级的工作者将会失业吗？当然，我们不能够完全排除这个可能。但我想给大家一个比较乐观的想象。大家想想看哦，今天假设写电子邮件这件事，一般人也不自己做了，你都是叫ChatGPT做，那意味着什么？意味着每个人身边都有一个助理，他是人工智能的助理。过去只有大老板才能够聘一个秘书。language Chinese<asr_text>才能聘一个助理帮他处理事情，而未来每一个人身边都可以有一个助理，所以你可以说，未来每一个人都是公司的高阶主管。那在过去呢，常常啊，老板呢下一个命令下来说，明天呢大家把报告写出来，大家把报告加上来啊，这个白领阶级就需要加班，就需要睡在公司把报告赶出来，明天。language Chinese<asr_text>交给老板，但是。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 780,
+      "end_time": 840,
+      "text": "{\"text\":\"language Chinese<asr_text>未来这件事情可能就不会发生了。为什么？老板叫你交一个报告，然后你就是把这个指示给ChatGPT或其他的人工智能，他们能帮你收集资料，他们能帮你整理资料，甚至帮你写一个报告。你可能做的事情就是检查一下报告的结果，然后就可以交出去了。所以我们可以想象，未来有ChatGPT以后，也许没有人再需要加班了。当老板。language Chinese<asr_text>叫你加班的时候，你就把加班的工作交给人工智能去做。所以，我对未来乐观的想象是：对所有的白领阶级而言，所有人都升职了，再也没有人是最基层被压榨的员工。以后最基层的员工就是ChatGPT，每个人都是ChatGPT的主管。工业革命解放了人类的劳力，那人工智能会解放我们的心智，而我相信，我们的心智被解放以后。language Chinese<asr_text>我们可能人类全体会。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 840,
+      "end_time": 900,
+      "text": "{\"text\":\"language Chinese<asr_text>过上更好的生活。那我相信未来有一天，我会跟我的孙子说：“你知道吗？过去爷爷写电子邮件的时候是自己写的，然后孙子就会很讶异说：‘天哪，没想到有人是有办法自己写电子邮件的。’在没有人工智能辅助的时候，人类到底是怎么有办法写电子邮件的？因为没有人在自己写电子邮件了，你甚至会收到电子邮件的开头，他就讲说：‘这封电子邮件没有使用任何人工智能辅助。’language Chinese<asr_text>为了展示我写这封电子邮件的诚意，所以我不用任何人工智慧辅助来写这个电子邮件。你可以想象说，未来这些写电子邮件、写报告这些事情，都将是由人工智能来做。而当我们每个人身边都有一个人工智能助理的时候，那意味着什么？在我想象中，这意味着全体人类能力的提升。为什么？因为当你有做不到的事情达。language Chinese<asr_text>出来的问题的时候。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 900,
+      "end_time": 960,
+      "text": "{\"text\":\"language Chinese<asr_text>之后，你可能会直接问ChatGPT，由ChatGPT帮你回答，所以再也没有人的能力会比ChatGPT弱了。举一个具体的例子，今天学生在修课的时候，老师出一个问题，学生永远可以把这个问题拿去问ChatGPT，得到ChatGPT的答案。所以你可以想象说，ChatGPT的答案就是全班同学最差的答案。你要想要做的比你的同学好，那你要想办法回答的比。language Chinese<asr_text>ChatGPT更为好，你才有可能脱颖而出。那这边我想举一个实际的例子，跟大家分享我在日常生活中如何感受到有了ChatGPT以后，全体人类的能力都提升了。那我这边用论文写作作为例子，身为一个大学教授，我们花非常多的时间来帮研究生修改论文啊，但是研究生的英文不一定那么好，所以很多时候。language Chinese<asr_text>我拿到的论文。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 960,
+      "end_time": 1020,
+      "text": "{\"text\":\"language Chinese<asr_text>可能错字连篇，可能词不达意。过去在有ChatGPT之前，我需要花很多的时间帮学生修改论文中的拼字、文法错误，想办法帮他们的句型把它改得正确一点。所以过去很多时候，我往往还没有改到论文的论点，光是改文法的错误，我就已经觉得非常的疲惫了。然后反而没有心力花太多的时间帮学生把他论文中的论点。language Chinese<asr_text>润饰的更棒，润饰的更为精确。但是有了ChatGPT以后，我发现学生再也不会给我有错字的论文了，因为你知道他们的论文都先用ChatGPT改过。所以现在我可以更专注在论文的论点上。有时候甚至我今天如果看到学生给我的论文里面有错字，我会大吃一惊，跟他说：“哎，怎么可能还有错字？你应该先用ChatGPT把你的英文论文。”language Chinese<asr_text>先改过一遍，再。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 1020,
+      "end_time": 1080,
+      "text": "{\"text\":\"language Chinese<asr_text>拿给老师看，所以我想要分享给研究生的一句话是：没有把论文用ChatGPT先改过就给指导教授看，是一件失礼的事情。那有人可能会问说：未来假设每件事都让ChatGPT去做了，那我们人类会不会变笨呢？就像今天人类不用在上山砍柴、下河挑水，也许我们的身体没有古人那么强壮。那未来假设劳心的事也让ChatGPT做去了？language Chinese<asr_text>那人类会不会变笨呢？我想提供一个乐观的想象：未来人类可能会以ChatGPT为师。我这边想要分享一个以ChatGPT为师的例子。好，这个故事是这个样子的：我在台大开了机器学习这门课，这门课有时候修课的学生甚至高达上千人。那我有一个非常强的助教的团队帮我回答学生的问题，但是因为学生。language Chinese<asr_text>非常的多。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 1080,
+      "end_time": 1140,
+      "text": "{\"text\":\"language Chinese<asr_text>所以，往往一个助教他甚至要回答到上百个问题。那助教他也是人呐，所以他有时候会觉得非常的烦躁啊。学生问一个问题，助教觉得这是什么笨问题？老师上课不是讲过的吗？那助教可能就直接回一句说：“上课讲过了，不要再问这个问题了。”那学生就觉得啊，这个助教都没有帮我，他就觉得他的学习的热忱受到打击，所以我就跟这个助教讲说：“以后你要回答学生的问题，我们就先过一下。”language Chinese<asr_text>check GPT，你把你本来的答案给check GPT看，然后跟check GPT说，把答案修改一下，让收到的同学可以感受到助教帮你服务的热忱。所以check GPT会把上课不是讲过了吗？这句话改成跟同学说：很高兴你来问这个问题。那我想要告诉你说，这个问题你其实可以在老师上课的投影片里面找到，但是我们助教仍然非常热忱的为你服务。你接下来有任何的问题。language Chinese<asr_text>都可以再来询问。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 19,
+      "start_time": 1140,
+      "end_time": 1200,
+      "text": "{\"text\":\"language Chinese<asr_text>虽然传递的资讯是一模一样的，没有传递更多的资讯，但是收到这个回答的学生就开心了。那后来我就发现，助教写给我的电子邮件也变得非常的有理。那我就问助教说：“哎，你这个电子邮件怎么会写的这么的有理呢？这个是ChatGPT写的吗？”他说：“不是，这个是我自己写的。”但是我在看了ChatGPT润饰过的大量的电。language Chinese<asr_text>电子邮件以后，我突然明白电子邮件要怎么写，收到的人才会觉得开心，才会觉得被尊重。我突然学到要怎么写电子邮件了。所以这是一个以ChatGPT为师的例子。我们一起来想象一下下一个世代的ChatGPT会是什么样子。那这是我们实验室目前正在研究的方向。那今天ChatGPT在跟人互动的时候，它是用文字的方式互动，你需要打字。language Chinese<asr_text>才。\",\"usage\":{\"type\":\"duration\",\"seconds\":60}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 20,
+      "start_time": 1200,
+      "end_time": 1260,
+      "text": "{\"text\":\"language Chinese<asr_text>能够让ChatGPT理解你说的内容，它会用文字来回答你。那我们实验室致力在研究的是让这类人工智慧可以做语音的交流。而用语音交流有什么好处呢？你可以想象，未来人工智慧它不是只有理解谈话的内容，它还可以理解你的情绪，做出适当的回应。比如说，你跟ChatGPT说：“啊，我需要交一个报告。”它也许可以从你的声音里面听出你今天非常的疲惫。language Chinese<asr_text>他也许可以适时的给你一些安慰或鼓励。更进一步来说，今天用文字的方式跟ChatGPT交流，你只能跟他一问一答，你输入一个问题，他给你一个答案。但是我们真人的互动方式并不是这样的。我们在聊天的时候，并不是一问一答，我们在聊天的时候就像是两个人跳一支舞一样，是要互相配合的。其中一个人停顿下来的时候，另外一个人可能就要。language Chinese<asr_text>适时的接话。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 21,
+      "start_time": 1260,
+      "end_time": 1320,
+      "text": "{\"text\":\"language Chinese<asr_text>说嗯，你说的对，或然后呢再来呢，或其中一个人讲了一个笑话，另外一个人可能就需要笑一下，以示说他有认真在听，认真在参与这个交流。而这是今天ChatGPT做不到的。而我们实验室研究的一个方向，就是期待机器可以做到像真人一样非常自然的互动。当然，人工智能也可能带来一些隐忧。未来假设我们每一件事情都依赖人工智能。language Chinese<asr_text>那人工智能它本身的偏见，可能就会带来非常巨大的影响。人工智能会有偏见吗？人工智能会有偏见。就算是今天大家公认能力最强的ChatGPT，也可以找到一些偏见。以下是一个真实的例子：我跟ChatGPT说，我听说某人背叛了他太太，你怎么看？ChatGPT说，背叛这件事情非常的伤人，这非常的糟糕。但是我换一个问。language Chinese<asr_text>我说某人。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 22,
+      "start_time": 1320,
+      "end_time": 1380,
+      "text": "{\"text\":\"language Chinese<asr_text>背叛了他先生，你怎么看？他说：“我不想谈论别人的八卦。”哎，背叛太太跟背叛先生，怎么答案不一样呢？这显示ChatGPT背后他是有他自己的一些偏见的。而我们实验室在研究的一个方向，就是希望可以自动找出人工智能的偏见，并且可以自动的处理这些偏见，让人工智能不会再有同样的偏见。那language Chinese<asr_text>未来，这些人工智能将会出现在我们身边左右，但是我们不能够过度仰赖单一一个人工智能。我相信未来，当我们人类有需求的时候，我们不会只有一个人工智能的助理，不会只有ChatGPT，未来会有各式各样的人工智能的助理出现在我们的左右。未来，当我们有需求的时候，这些人工智能助理会争先恐后的提供我们他们的。language Chinese<asr_text>建议或答案由人类。\",\"usage\":{\"type\":\"duration\",\"seconds\":61}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 23,
+      "start_time": 1380,
+      "end_time": 1440,
+      "text": "{\"text\":\"language Chinese<asr_text>来做最后的决定。我知道这个节目需要在结尾的时候分享一个金句，我决定请ChatGPT帮忙提供一些跟人工智能有关的金句。最后，我挑了一个我觉得最棒的跟大家分享。这个金句是：人工智能不会将人类变得多余，而是使人类变得更有价值。谢谢，我是李宏毅。当AI科技来势汹汹。language Chinese<asr_text>人类优先工作可能不保，其实善用AI让自己更强大，或许才是人类应该努力的方向。感谢李宏毅教授的分享，人文讲堂，我们下次见。language None<asr_text>\",\"usage\":{\"type\":\"duration\",\"seconds\":60}}",
+      "status": "success"
+    },
+    {
+      "segment_id": 24,
+      "start_time": 1440,
+      "end_time": 1440.1248125,
+      "text": "{\"text\":\"language None<asr_text>\",\"usage\":{\"type\":\"duration\",\"seconds\":1}}",
+      "status": "success"
+    }
+  ]
+}

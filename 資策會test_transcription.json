@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "original_file": "/home/myyang/deepseekocr/資策會test.m4a",
+    "total_chunks": 60,
+    "successful_chunks": 0,
+    "total_duration": 1773.844,
+    "transcription_date": "2026-02-01T14:12:47.122541",
+    "file_format": ".m4a"
+  },
+  "full_text": "",
+  "segments": [
+    {
+      "start_time": 0,
+      "end_time": 30,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 30,
+      "end_time": 60,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 60,
+      "end_time": 90,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 90,
+      "end_time": 120,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 120,
+      "end_time": 150,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 150,
+      "end_time": 180,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 180,
+      "end_time": 210,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 210,
+      "end_time": 240,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 240,
+      "end_time": 270,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 270,
+      "end_time": 300,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 300,
+      "end_time": 330,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 330,
+      "end_time": 360,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 360,
+      "end_time": 390,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 390,
+      "end_time": 420,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 420,
+      "end_time": 450,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 450,
+      "end_time": 480,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 480,
+      "end_time": 510,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 510,
+      "end_time": 540,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 540,
+      "end_time": 570,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 570,
+      "end_time": 600,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 600,
+      "end_time": 630,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 630,
+      "end_time": 660,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 660,
+      "end_time": 690,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 690,
+      "end_time": 720,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 720,
+      "end_time": 750,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 750,
+      "end_time": 780,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 780,
+      "end_time": 810,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 810,
+      "end_time": 840,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 840,
+      "end_time": 870,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 870,
+      "end_time": 900,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 900,
+      "end_time": 930,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 930,
+      "end_time": 960,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 960,
+      "end_time": 990,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 990,
+      "end_time": 1020,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1050,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1050,
+      "end_time": 1080,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1110,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1110,
+      "end_time": 1140,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1170,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1200,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1200,
+      "end_time": 1230,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1260,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1290,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1320,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1350,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1380,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1380,
+      "end_time": 1410,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1440,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1470,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1470,
+      "end_time": 1500,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1500,
+      "end_time": 1530,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1530,
+      "end_time": 1560,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1560,
+      "end_time": 1590,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1590,
+      "end_time": 1620,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1650,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1680,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1710,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1740,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1770,
+      "duration": 30,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1773.844,
+      "duration": 3.844000000000051,
+      "text": "[轉錄失敗: Error code: 404 - {'error': {'message': 'The model `Qwen/Qwen3-7B-Audio` does not exist.', 'type': 'NotFoundError', 'param': 'model', 'code': 404}}]",
+      "success": false
+    }
+  ]
+}

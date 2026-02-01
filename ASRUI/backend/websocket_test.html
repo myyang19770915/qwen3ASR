@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Test</title>
+</head>
+<body>
+    <h1>WebSocket Test</h1>
+    <div id="status">Connecting...</div>
+    <div id="messages"></div>
+    
+    <script>
+        const sessionId = 'test-session-' + Date.now();
+        const ws = new WebSocket(`ws://localhost:8001/ws/${sessionId}`);
+        const statusDiv = document.getElementById('status');
+        const messagesDiv = document.getElementById('messages');
+        
+        function addMessage(message) {
+            const p = document.createElement('p');
+            p.textContent = new Date().toLocaleTimeString() + ': ' + message;
+            messagesDiv.appendChild(p);
+        }
+        
+        ws.onopen = function(event) {
+            statusDiv.textContent = 'Connected';
+            addMessage('WebSocket connected');
+        };
+        
+        ws.onmessage = function(event) {
+            const data = JSON.parse(event.data);
+            addMessage('Received: ' + JSON.stringify(data, null, 2));
+        };
+        
+        ws.onerror = function(error) {
+            statusDiv.textContent = 'Error';
+            addMessage('WebSocket error: ' + error);
+        };
+        
+        ws.onclose = function(event) {
+            statusDiv.textContent = 'Disconnected';
+            addMessage('WebSocket closed');
+        };
+        
+        // Send heartbeat every 5 seconds
+        setInterval(() => {
+            if (ws.readyState === WebSocket.OPEN) {
+                ws.send('heartbeat');
+                addMessage('Sent heartbeat');
+            }
+        }, 5000);
+    </script>
+</body>
+</html>

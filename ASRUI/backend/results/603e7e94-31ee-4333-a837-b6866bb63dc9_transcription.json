@@ -1,0 +1,356 @@
+{
+  "success": true,
+  "metadata": {
+    "original_file": "uploads/603e7e94-31ee-4333-a837-b6866bb63dc9_Lee01.mp3",
+    "total_segments": 49,
+    "successful_segments": 0,
+    "total_duration": 1440.1248125,
+    "transcription_date": "2026-02-01T14:58:07.355177"
+  },
+  "full_text": "",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_time": 0,
+      "end_time": 30,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 1,
+      "start_time": 30,
+      "end_time": 60,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 2,
+      "start_time": 60,
+      "end_time": 90,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 3,
+      "start_time": 90,
+      "end_time": 120,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 120,
+      "end_time": 150,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 150,
+      "end_time": 180,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 180,
+      "end_time": 210,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 210,
+      "end_time": 240,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 240,
+      "end_time": 270,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 270,
+      "end_time": 300,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 300,
+      "end_time": 330,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 330,
+      "end_time": 360,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 360,
+      "end_time": 390,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 390,
+      "end_time": 420,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 420,
+      "end_time": 450,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 450,
+      "end_time": 480,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 480,
+      "end_time": 510,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 510,
+      "end_time": 540,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 540,
+      "end_time": 570,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 19,
+      "start_time": 570,
+      "end_time": 600,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 20,
+      "start_time": 600,
+      "end_time": 630,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 21,
+      "start_time": 630,
+      "end_time": 660,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 22,
+      "start_time": 660,
+      "end_time": 690,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 23,
+      "start_time": 690,
+      "end_time": 720,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 24,
+      "start_time": 720,
+      "end_time": 750,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 25,
+      "start_time": 750,
+      "end_time": 780,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 26,
+      "start_time": 780,
+      "end_time": 810,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 27,
+      "start_time": 810,
+      "end_time": 840,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 28,
+      "start_time": 840,
+      "end_time": 870,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 29,
+      "start_time": 870,
+      "end_time": 900,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 30,
+      "start_time": 900,
+      "end_time": 930,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 31,
+      "start_time": 930,
+      "end_time": 960,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 32,
+      "start_time": 960,
+      "end_time": 990,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 33,
+      "start_time": 990,
+      "end_time": 1020,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 34,
+      "start_time": 1020,
+      "end_time": 1050,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 35,
+      "start_time": 1050,
+      "end_time": 1080,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 36,
+      "start_time": 1080,
+      "end_time": 1110,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 37,
+      "start_time": 1110,
+      "end_time": 1140,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 38,
+      "start_time": 1140,
+      "end_time": 1170,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 39,
+      "start_time": 1170,
+      "end_time": 1200,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 40,
+      "start_time": 1200,
+      "end_time": 1230,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 41,
+      "start_time": 1230,
+      "end_time": 1260,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 42,
+      "start_time": 1260,
+      "end_time": 1290,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 43,
+      "start_time": 1290,
+      "end_time": 1320,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 44,
+      "start_time": 1320,
+      "end_time": 1350,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 45,
+      "start_time": 1350,
+      "end_time": 1380,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 46,
+      "start_time": 1380,
+      "end_time": 1410,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 47,
+      "start_time": 1410,
+      "end_time": 1440,
+      "text": "",
+      "status": "error"
+    },
+    {
+      "segment_id": 48,
+      "start_time": 1440,
+      "end_time": 1470,
+      "text": "",
+      "status": "error"
+    }
+  ]
+}

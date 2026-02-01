@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qwen3 ASR 測試頁面</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .input-group { margin: 15px 0; }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        input[type="text"], select { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+        button { background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background-color: #45a049; }
+        .result { margin-top: 20px; padding: 15px; background-color: #f9f9f9; border-radius: 4px; }
+        .error { color: red; }
+        .success { color: green; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎤 Qwen3 ASR 語音識別測試</h1>
+        
+        <div class="input-group">
+            <label for="server-url">服務器地址:</label>
+            <input type="text" id="server-url" value="http://127.0.0.1:8006" placeholder="輸入服務器URL">
+        </div>
+        
+        <div class="input-group">
+            <label for="audio-url">音頻文件URL:</label>
+            <input type="text" id="audio-url" value="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/asr_zh.wav">
+        </div>
+        
+        <div class="input-group">
+            <label for="language">語言:</label>
+            <select id="language">
+                <option value="auto">自動檢測</option>
+                <option value="Chinese">中文</option>
+                <option value="English">英文</option>
+            </select>
+        </div>
+        
+        <button onclick="testConnection()">🔍 測試連接</button>
+        <button onclick="transcribeAudio()">🎵 開始轉錄</button>
+        
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        async function testConnection() {
+            const serverUrl = document.getElementById('server-url').value;
+            const resultDiv = document.getElementById('result');
+            
+            try {
+                resultDiv.innerHTML = '🔍 正在測試連接...';
+                const response = await fetch(`${serverUrl}/health`);
+                
+                if (response.ok) {
+                    resultDiv.innerHTML = '<div class="success">✅ 服務器連接成功！</div>';
+                } else {
+                    resultDiv.innerHTML = '<div class="error">❌ 服務器響應錯誤: ' + response.status + '</div>';
+                }
+            } catch (error) {
+                resultDiv.innerHTML = '<div class="error">❌ 連接失敗: ' + error.message + '</div>';
+            }
+        }
+        
+        async function transcribeAudio() {
+            const serverUrl = document.getElementById('server-url').value;
+            const audioUrl = document.getElementById('audio-url').value;
+            const language = document.getElementById('language').value;
+            const resultDiv = document.getElementById('result');
+            
+            try {
+                resultDiv.innerHTML = '🎤 正在轉錄音頻，請稍候...';
+                
+                const response = await fetch(`${serverUrl}/transcribe`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        audio: audioUrl,
+                        language: language === 'auto' ? null : language,
+                        return_timestamps: true
+                    })
+                });
+                
+                if (response.ok) {
+                    const result = await response.json();
+                    resultDiv.innerHTML = `
+                        <div class="success">✅ 轉錄成功！</div>
+                        <h3>結果：</h3>
+                        <pre>${JSON.stringify(result, null, 2)}</pre>
+                    `;
+                } else {
+                    resultDiv.innerHTML = '<div class="error">❌ 轉錄失敗: ' + response.status + '</div>';
+                }
+            } catch (error) {
+                resultDiv.innerHTML = '<div class="error">❌ 轉錄錯誤: ' + error.message + '</div>';
+            }
+        }
+    </script>
+</body>
+</html>
